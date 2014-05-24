@@ -1,0 +1,3 @@
+---
+folder: '/mnt/data/Oboi'
+time: '1'
