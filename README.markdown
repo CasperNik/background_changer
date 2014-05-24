@@ -1,4 +1,4 @@
-# Desktop Background changer from Casper.
+## Desktop Background changer from Casper.
     This is simple but very useful script can help you change you desktop background from yours lib.
 ## Requirements.
     
