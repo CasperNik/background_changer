@@ -1,19 +1,29 @@
-## Desktop Background changer from Casper.
-    This is simple but very useful script can help you change you desktop background from yours lib.
-## Requirements
+# Desktop Background changer from Casper.
+* * *
+
+## This is simple but very useful script can help you change you desktop background from yours lib.
+
+
+## Requirements.
+    ruby >= 1.9.3
+    GNOME desktop environment
     
-## Possibilities
+## Possibilities.
+    Change desktop background from a specified folder with a specified time.
+    Random pictures.
+    Working like a daemon.
+    Auto start with OS.
     
 ## Install.
-    * Copy this files to yours filesystem
-    * Run bundle to make sure all gems was installed.
-    * Create config.txt file in /home/<your user>/.casper_background/
-        default settings is: 
+    1. Copy this files to yours filesystem
+    2. Run 'bundle' to make sure all gems was installed.
+    3. Create/copy config.txt file in '/home/<your user>/.casper_background/'
+        default settings are: 
             folder: /home/<your name>/Pictures/
             time: 10 min
-    * Add casper_background_demon_autostart.rb file in "Startup Applications".
+    4. Add casper_background_demon_autostart.rb file in "Startup Applications".
 
-## Testing
+## Testing.
     For testing purpose you can run casper_background_demon.rb <command>
       * where <command> is one of:
             start         start an instance of the application
