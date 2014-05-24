@@ -1,8 +1,8 @@
 ## Desktop Background changer from Casper.
     This is simple but very useful script can help you change you desktop background from yours lib.
-## Requirements.
+## Requirements
     
-## Possibilities.
+## Possibilities
     
 ## Install.
     * Copy this files to yours filesystem
