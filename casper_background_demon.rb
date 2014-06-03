@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 require 'daemons'
 
-Daemons.run('background.rb')
+Daemons.run(ENV['HOME']+'/.casper_background/background.rb')

@@ -1,3 +1,4 @@
 ---
 folder: '/mnt/data/Oboi'
 time: '1'
+using_photo_in_log: '1'
